@@ -1,4 +1,4 @@
-import 'package:custom_multiavatar/multi_avatar_provider.dart';
+import 'package:custom_multiavatar/providers/multi_avatar_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

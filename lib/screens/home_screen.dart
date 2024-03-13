@@ -1,10 +1,7 @@
-import 'dart:ui';
-
 import 'package:custom_multiavatar/api_services/db_services.dart';
-import 'package:custom_multiavatar/multi_avatar_provider.dart';
+import 'package:custom_multiavatar/providers/multi_avatar_provider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/painting.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatefulWidget {
